@@ -1,4 +1,5 @@
 # CoreUtilities
+CoreUtilities includes helper classes for working with and reading NSData in various ways.
 
 # CUDataReader
 CUDataReader allows you to parse out an NSData object while automatically managing the offset
